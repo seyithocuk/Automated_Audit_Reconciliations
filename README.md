@@ -15,6 +15,8 @@ Auditors need to reconcile audit evidence to the object that they are auditing, 
 ## File description <a name="description"></a>
 **audit_reconcilitions.py** is a Python file that can be run on the fly by just changing the path to the location of the relevant PDF files and by changing the output filename. Comments on each section of the code explain the performed steps. This is a relatively straightforward and simple to understand code, specifically designed for automating some of the basic auditing steps.
 
+**Manual_script.pdf** is an outline of the procedure of how one can adapt the Python algorithm (audit_reconciliations.py) to one's needs and wishes. Some programming skills (preferably Python) and some experience with regular expressions is necessary.
+
 **Automating Audit Reconciliations A Use Case_Paper.pdf** is the paper based on the work that is done, which is submitted to the journal "Current Issues in Auditing" of the American Accounting Association.
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
