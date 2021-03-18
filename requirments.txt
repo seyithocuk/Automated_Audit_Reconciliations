@@ -1,0 +1,19 @@
+
+Please install the following packages: 
+
+1- pip install PyMuPDF
+2- pip install regex
+3- pip install python-csv
+4- pip install os-sys
+
+
+
+Please follow the following steps:
+
+1- put the pdf file (or files) in one folder, and copy the path of the folder to the script, for example: inputfolder = r"./folder_sample_annualreport/"
+2- choose a name of the output csv file and write its path, for example: r".\Desktop\output.csv"
+3- run the script
+
+
+
+
