@@ -24,6 +24,6 @@ Auditors need to reconcile audit evidence to the object that they are auditing, 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 This work is performed by: Alaa Khzam, Wim Janssen, Tjibbe Bosman, Jeroen Bellinga, and Seyit Hocuk. Most of the coding is done by Wim Janssen and Alaa Khzam.
 
-We thank, Olof Bik, Arjan Brouwer, and Joris Roosen for their support, comments, and encouragement for this project.
+We thank, Olof Bik, Arjan Brouwer, and Joris Roosen for their support, comments, and encouragement of this project.
 
 Feel free to use the code.
