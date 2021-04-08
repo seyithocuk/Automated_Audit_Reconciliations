@@ -19,7 +19,7 @@ Auditors need to reconcile audit evidence to the object that they are auditing, 
 
 **Sample-annual report-fund.pdf** is an artificially created sample PDF document that represents a typical annual report. One can use this file to test the algorithm.
 
-**Automating Audit Reconciliations A Use Case_Paper.pdf** is the paper based on the work that is done, which is submitted to the journal "Current Issues in Auditing" of the American Accounting Association.
+**Robotic Process Automation for the Extraction.pdf** is the paper based on the work that is done, which is submitted to the journal "Current Issues in Auditing" of the American Accounting Association.
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 This work is performed by: Alaa Khzam, Wim Janssen, Tjibbe Bosman, Jeroen Bellinga, and Seyit Hocuk. Most of the coding is done by Wim Janssen and Alaa Khzam.
